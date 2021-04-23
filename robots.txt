@@ -1,0 +1,3 @@
+Sitemap: https://shravanimaleportfolio.netlify.app/sitemap.xml
+User-agent: *
+Disallow:
